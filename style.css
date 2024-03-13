@@ -100,7 +100,7 @@ nav ul li a.active {
     left: -100%;
     text-align: center;
     width: 90vw;
-    height: 45vh;
+    height: 50vh;
     border-radius: 10px;
     background-color: rgb(30, 70, 180);
     background-blend-mode: overlay;
@@ -550,7 +550,7 @@ section {
     padding: 50px 0px;
   }
   .skills-container {
-    padding: 10px 24px;
+    padding: 10px 30px;
     flex-direction: column;
   }
   .skill {
@@ -709,7 +709,7 @@ footer a{
 @media only screen and (max-width:800px){
   .contact-container{
     flex-direction: column;
-    padding: 20px 22px;
+    padding: 20px 26px;
   }
   #contact-item{
     width: 100%;
