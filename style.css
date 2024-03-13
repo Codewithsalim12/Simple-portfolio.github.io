@@ -171,19 +171,19 @@ nav ul li a.active {
   align-items: center;
   transition: all 0.4s ease;
 }
-.icons i:nth-child(1):hover {
+.icons i:nth-child(1) {
   background-color: blue;
 }
-.icons i:nth-child(2):hover {
+.icons i:nth-child(2 {
   background-color: brown;
 }
-.icons i:nth-child(3):hover {
+.icons i:nth-child(3) {
   background-color: rgb(56, 41, 189);
 }
-.icons i:nth-child(4):hover {
+.icons i:nth-child(4){
   background-color: rgb(142, 49, 230);
 }
-.icons i:nth-child(5):hover {
+.icons i:nth-child(5) {
   background-color: brown;
 }
 .text-2 .btn {
